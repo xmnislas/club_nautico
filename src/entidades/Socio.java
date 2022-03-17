@@ -14,6 +14,7 @@ import java.util.Objects;
 public class Socio {
     private Long idSocio;
     private String nombre, curp;
+    private String direccion;
 
     public Socio() {
     }
